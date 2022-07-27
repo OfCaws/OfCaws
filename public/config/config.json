@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x11c126D74dc3d1004c98b24913b299E3747266b2",
+  "SCAN_LINK": "https://polygonscan.com/token/0x11c126D74dc3d1004c98b24913b299E3747266b2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "OfCaws",
+  "SYMBOL": "OC",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 6000000000000000000,
+  "DISPLAY_COST": 6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ofcaws",
+  "SHOW_BACKGROUND": true
+}
